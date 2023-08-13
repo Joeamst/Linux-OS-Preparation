@@ -35,3 +35,5 @@ Jika sudah selesai maka masukan:
 ```
 $ pip3 --version
 ```
+
+### Install Git

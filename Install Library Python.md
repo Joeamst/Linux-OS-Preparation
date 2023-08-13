@@ -135,3 +135,23 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
  -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib-4.1.0/modules \
  -D BUILD_EXAMPLES=ON ..
 ```
+
+Build Open-CV yang sudah di compile
+dengan syntax di bawah ini:
+
+```
+$ make -j8
+```
+
+Install Open-CV yang sudah di build tadi
+dengan syntax di bawah ini:
+```
+$ sudo make install && sudo ldconfig
+```
+
+Jika semua tahapan sudah dilakukan maka cek versi Open-CV dengan perintah 
+```
+$ python3
+$ import cv2
+$ cv2.__version__
+```

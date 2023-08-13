@@ -29,3 +29,9 @@ Lalu masukan
 $ sudo apt install python3-pip
 
 ```
+
+Jika sudah selesai maka masukan:
+
+```
+$ pip3 --version
+```

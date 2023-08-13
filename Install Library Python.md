@@ -117,3 +117,21 @@ Unzip package Open-CV
 $ unzip opencv.zip
 $ unzip opencv_contrib.zip
 ```
+
+Compile Open-CV yang sudah di unduh, compile di dalam folder Open CV
+Buat folder dengan syntax dibawah ini:
+
+```
+cd ~/opencv-4.1.0/
+mkdir build
+cd build
+```
+
+Lalu lanjutkan dengan compile dengan syntax
+```
+cmake -D CMAKE_BUILD_TYPE=RELEASE \
+ -D CMAKE_INSTALL_PREFIX=/usr/local \
+ -D INSTALL_PYTHON_EXAMPLES=ON \
+ -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib-4.1.0/modules \
+ -D BUILD_EXAMPLES=ON ..
+```

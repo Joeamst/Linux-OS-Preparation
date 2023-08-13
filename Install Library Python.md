@@ -13,6 +13,4 @@ Library dan package yang di gunakan pada penyusunan Tugas Akhir diantara lain:
 
 ## Menginstall Package dan Library
 
-Text that is not a quote
-
-> Text that is a quote
+Install Pypi 

@@ -37,3 +37,16 @@ $ pip3 --version
 ```
 
 ### Install Git
+Buka terminal pada linux
+Masukan syntax di bawah ini: 
+
+```
+$ sudo apt install git
+```
+Tunggu hingga proses selesai, jika sudah maka masukan syntax di bawah ini untuk mengecek versi git
+
+```
+$ git --version
+```
+
+### Install Drone Kit

@@ -50,3 +50,15 @@ $ git --version
 ```
 
 ### Install Drone Kit
+Buka terminal pada linux
+Masukan syntax di bawah ini: 
+
+```
+$ sudo pip install dronekit
+```
+atau 
+```
+$sudo pip3 install dronekit
+```
+
+

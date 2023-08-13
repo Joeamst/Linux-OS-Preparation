@@ -122,9 +122,9 @@ Compile Open-CV yang sudah di unduh, compile di dalam folder Open CV
 Buat folder dengan syntax dibawah ini:
 
 ```
-cd ~/opencv-4.1.0/
+$ cd ~/opencv-4.1.0/
 mkdir build
-cd build
+$ cd build
 ```
 
 Lalu lanjutkan dengan compile dengan syntax

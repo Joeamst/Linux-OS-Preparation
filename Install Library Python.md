@@ -102,5 +102,18 @@ $ sudo apt-get install libatlas-base-dev gfortran
 
 Install CMake
 ```
-sudo apt install snapd
+$ sudo apt install snapd
+$ sudo snap install cmake --classic
+```
+
+Mendapatkan package Open-CV
+```
+$ wget -O opencv.zip https://github.com/opencv/opencv/archive/4.1.0.zip
+$ wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.1.0.zip
+```
+
+Unzip package Open-CV
+```
+$ unzip opencv.zip
+$ unzip opencv_contrib.zip
 ```

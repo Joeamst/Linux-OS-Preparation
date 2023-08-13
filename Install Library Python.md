@@ -17,6 +17,7 @@ Library dan package yang di gunakan pada penyusunan Tugas Akhir diantara lain:
 
 Buka terminal pada linux
 Masukan syntax di bawah ini:
-'''
+```
 $ sudo apt-get update
-'''
+
+```

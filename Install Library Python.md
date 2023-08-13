@@ -19,12 +19,13 @@ Buka terminal pada linux
 Masukan syntax di bawah ini:
 ```
 $ sudo apt-get update
+$ sudo apt-get upgrade
 
 ```
 
 Lalu masukan
 
 ```
-$ sudo apt-get upgrade
+$ sudo apt install python3-pip
 
 ```

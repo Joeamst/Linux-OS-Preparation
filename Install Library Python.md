@@ -21,3 +21,6 @@ Masukan syntax di bawah ini:
 $ sudo apt-get update
 
 ```
+& sudo apt-get upgrade
+
+```

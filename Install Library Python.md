@@ -99,3 +99,8 @@ $ sudo apt-get install libxvidcore-dev libx264-dev
 $ sudo apt-get install libgtk2.0-dev libgtk-3-dev
 $ sudo apt-get install libatlas-base-dev gfortran
 ```
+
+Install CMake
+```
+sudo apt install snapd
+```

@@ -61,4 +61,24 @@ atau
 $sudo pip3 install dronekit
 ```
 
+### Install Pymavlink
+Buka terminal pada linux
+Masukan syntax di bawah ini: 
 
+```
+pip install pymavlink
+```
+
+### Install Numpy
+Buka terminal pada linux
+Masukan syntax di bawah ini:
+```
+pip install numpy
+```
+
+### Install Matplotlib
+Buka terminal pada linux
+Masukan syntax di bawah ini:
+```
+pip install matplotlib
+```

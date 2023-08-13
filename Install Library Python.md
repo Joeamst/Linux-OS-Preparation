@@ -5,11 +5,11 @@ Library dan package yang di gunakan pada penyusunan Tugas Akhir diantara lain:
 
 - Pip
 - Git
-- Open CV & Open CV Contrib
+- Drone Kit
+- PyMavlink
 - Numpy
 - Matplolib
-- PyMavlink
-- Drone Kit
+- Open CV & Open CV Contrib
 
 ## Menginstall Package dan Library
 
